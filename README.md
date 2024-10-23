@@ -7,7 +7,6 @@
 
 ⚡ Fun fact: I'm keen on reading different kinds of books. Now I'm reading a book about forest microbiology.
 
-😄 
 
 
 [![{{NAME}}'s github stats](https://github-readme-stats.vercel.app/api?username={{USERNAME}}&theme=dark)](https://github.com/{{USERNAME}}/github-readme-stats)
