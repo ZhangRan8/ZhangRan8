@@ -9,4 +9,4 @@
 
 
 
-[![{{NAME}}'s github stats](https://github-readme-stats.vercel.app/api?username={{ZhangRan8}}&theme=dark)](https://github.com/{{ZhangRan8}}/github-readme-stats)
+[![{{NAME}}'s github stats](https://github-readme-stats.vercel.app/api?username={ZhangRan8}&theme=dark)](https://github.com/{ZhangRan8}/github-readme-stats)
