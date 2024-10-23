@@ -3,7 +3,13 @@
 
 🔭 I work at SSW as an Associate Software Developer.
 
-📫 How to reach me: @ZhangRan8
+🌱 I’m currently working on SSW FireBootCamp.
+
+💬 Ask me about electrical engineering, optimization in math and electricity markets.
+
+😄 Pronouns: She/her
+
+📫 How to reach me: LorraineZhang@ssw.com.au
 
 ⚡ Fun fact: I'm keen on reading different kinds of books. Now I'm reading a book about forest microbiology.
 
